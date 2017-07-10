@@ -1,0 +1,6 @@
+<!ENTITY showTabBar.label             "Adina mussar la trav da tabs">
+<!ENTITY showTabBar.accesskey         "v">
+<!ENTITY  drawInTitlebar.label        "">
+<!ENTITY  drawInTitlebar.accesskey    "s">
+<!ENTITY  tabsOnTop.label             "Plazzar sisum ils tabs">
+<!ENTITY  tabsOnTop.accesskey         "t">

@@ -1,0 +1,9 @@
+﻿<!ENTITY loadImages.label            "بارگیری تصاویر به طور خودکار">
+<!ENTITY loadImages.accesskey        "ت">
+<!ENTITY exceptions.label            "استثناها…">
+<!ENTITY exceptions.accesskey        "س">
+<!ENTITY enableJavaScript.label      "فعال بودن جاوا اسکریپت">
+<!ENTITY enableJavaScript.accesskey  "ج">
+<!ENTITY advancedJS.label            "پیشرفته…">
+<!ENTITY advancedJS.accesskey        "پ">
+<!ENTITY inContent.title             "تصاویر &amp; جاوا اسکریپت">

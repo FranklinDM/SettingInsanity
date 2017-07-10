@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE tabsDTD SYSTEM "chrome://settingsanity/locale/tabs.dtd">
+<overlay id="settingsanityOverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+ <preferences id="tabsPreferences">
+  <preference id="browser.tabs.defaultDrawInTitlebar" name="browser.tabs.drawInTitlebar" type="bool" inverted="false" />
+ </preferences> 
+ <vbox id="tabPrefsBox">
+  <checkbox id="drawInTitlebar" label="&drawInTitlebar.label;" accesskey="&drawInTitlebar.accesskey;" preference="browser.tabs.defaultDrawInTitlebar" insertbefore="restoreOnDemand" />
+ </vbox>
+</overlay>

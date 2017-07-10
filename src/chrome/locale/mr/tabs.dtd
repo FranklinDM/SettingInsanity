@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "नेहमी टॅब पट्टी दर्शवा">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "शिर्षकपट्टीमध्ये टॅब काढा">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "शीर्षकरिता टॅब्स">
+<!ENTITY  tabsOnTop.accesskey         "p">

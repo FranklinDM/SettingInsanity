@@ -1,0 +1,9 @@
+﻿<!ENTITY loadImages.label            "ചിത്രങ്ങള്‍ തന്നത്താന്‍ ലോഡ്‌ ചെയ്യുക">
+<!ENTITY loadImages.accesskey        "I">
+<!ENTITY exceptions.label            "വിട്ടുവീഴ്ചകള്‍">
+<!ENTITY exceptions.accesskey        "x">
+<!ENTITY enableJavaScript.label      "JavaScript പ്രവര്‍ത്തന സജ്ജമാക്കുക">
+<!ENTITY enableJavaScript.accesskey  "J">
+<!ENTITY advancedJS.label            "സങ്കീര്‍ണ്ണമായവ...">
+<!ENTITY advancedJS.accesskey        "v">
+<!ENTITY inContent.title             "ചിത്രങ്ങള്‍ &amp; JavaScript">

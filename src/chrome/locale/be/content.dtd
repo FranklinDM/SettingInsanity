@@ -1,0 +1,9 @@
+﻿<!ENTITY loadImages.label           "Загружаць выявы самастойна">
+<!ENTITY loadImages.accesskey       "с">
+<!ENTITY exceptions.label           "Выключэнні…">
+<!ENTITY exceptions.accesskey       "В">
+<!ENTITY enableJavaScript.label     "Дазволіць JavaScript">
+<!ENTITY enableJavaScript.accesskey "s">
+<!ENTITY advancedJS.label           "Пашыраны…">
+<!ENTITY advancedJS.accesskey       "ш">
+<!ENTITY inContent.title            "Выявы &amp; JavaScript">

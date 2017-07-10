@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Automatski učitaj slike">
+<!ENTITY  loadImages.accesskey        "u">
+<!ENTITY  exceptions.label            "Iznimke...">
+<!ENTITY  exceptions.accesskey        "I">
+<!ENTITY  enableJavaScript.label      "Omogući JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Napredno...">
+<!ENTITY  advancedJS.accesskey        "N">
+<!ENTITY  inContent.title             "Slike &amp; JavaScript">

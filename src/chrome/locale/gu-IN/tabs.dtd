@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "હંમેશા ટેબ પટ્ટી બતાવો">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "શીર્ષકપટ્ટી ટે સ દોરો">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "ઊંચે ટૅબ">
+<!ENTITY  tabsOnTop.accesskey         "p">

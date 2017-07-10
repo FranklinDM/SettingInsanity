@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "حمّل الصور آليًا">
+<!ENTITY  loadImages.accesskey        "ص">
+<!ENTITY  exceptions.label            "الاستثناءات…">
+<!ENTITY  exceptions.accesskey        "ث">
+<!ENTITY  enableJavaScript.label      "فعّل جافاسكربت">
+<!ENTITY  enableJavaScript.accesskey  "س">
+<!ENTITY  advancedJS.label            "متقدم…">
+<!ENTITY  advancedJS.accesskey        "ق">
+<!ENTITY  inContent.title             "الصور &amp; جافاسكربت">

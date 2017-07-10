@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "탭 도구 모음 항상 보이기">
+<!ENTITY  showTabBar.accesskey        "b">
+<!ENTITY  drawInTitlebar.label        "제목 표시 줄에있는 탭을 그립니다">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "탭 항상 위로">
+<!ENTITY  tabsOnTop.accesskey         "p">

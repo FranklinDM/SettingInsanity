@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "نوار زبانه‌ها همیشه نمایش داده شود">
+<!ENTITY showTabBar.accesskey         "ن">
+<!ENTITY  drawInTitlebar.label        "رسم زبانه ها در میله عنوان">
+<!ENTITY  drawInTitlebar.accesskey    "ر">
+<!ENTITY  tabsOnTop.label             "زبانه‌ها در بالا">
+<!ENTITY  tabsOnTop.accesskey         "ل">

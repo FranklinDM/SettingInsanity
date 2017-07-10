@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "总是显示标签栏">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "在标题栏中绘制标签页">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "标签页置顶">
+<!ENTITY  tabsOnTop.accesskey         "p">

@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "Vždy zobrazovat lištu s panely">
+<!ENTITY s howTabBar.accesskey        "z">
+<!ENTITY  drawInTitlebar.label        "Nakreslete panely v horním pruhu okna">
+<!ENTITY  drawInTitlebar.accesskey    "k">
+<!ENTITY  tabsOnTop.label             "Panely navrchu">
+<!ENTITY  tabsOnTop.accesskey         "y">

@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "ਚਿੱਤਰ ਆਟੋਮੈਟਿਕ ਹੀ ਲੋਡ ਕਰੋ">
+<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  exceptions.label            "ਛੋਟ…">
+<!ENTITY  exceptions.accesskey        "x">
+<!ENTITY  enableJavaScript.label      "ਜਾਵਾਸਕ੍ਰਿਪਟ ਯੋਗ">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "ਤਕਨੀਕੀ…">
+<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "ਤਸਵੀਰਾਂ &amp; JavaScript">

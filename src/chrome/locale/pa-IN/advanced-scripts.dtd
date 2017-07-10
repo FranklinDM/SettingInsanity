@@ -1,0 +1,10 @@
+﻿<!ENTITY advancedJSDialog.title           "ਤਕਨੀਕੀ JavaScript ਸੈਟਿੰਗ">
+<!ENTITY window.width                     "37em">
+<!ENTITY allowScripts.label               "ਸਕ੍ਰਿਪਟਾਂ ਮਨਜ਼ੂਰ:">
+<!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
+<!ENTITY moveResizePopupWindows.accesskey "M">
+<!ENTITY raiseLowerWindows.label          "Raise or lower windows">
+<!ENTITY raiseLowerWindows.accesskey      "R">
+<!ENTITY disableContextMenus.label        "Disable or replace context menus">
+<!ENTITY disableContextMenus.accesskey    "D">
+

@@ -1,0 +1,96 @@
+# content/skin/style
+content		settingsanity							chrome/content/
+skin		settingsanity			skin			chrome/skin/
+style		chrome://global/content/customizeToolbar.xul			chrome://settingsanity/skin/overlay.css
+
+# overlays
+overlay		chrome://browser/content/preferences/content.xul		chrome://settingsanity/content/preferences/content.xul
+overlay		chrome://browser/content/browser.xul					chrome://settingsanity/content/browser.xul
+overlay		chrome://browser/content/preferences/tabs.xul			chrome://settingsanity/content/preferences/tabs.xul
+
+# locales
+locale 		settingsanity 			ach				chrome/locale/ach/
+locale 		settingsanity 			af				chrome/locale/af/
+locale 		settingsanity 			ar				chrome/locale/ar/
+locale 		settingsanity 			as				chrome/locale/as/
+locale 		settingsanity 			ast				chrome/locale/ast/
+locale 		settingsanity 			be				chrome/locale/be/
+locale 		settingsanity 			bg				chrome/locale/bg/
+locale 		settingsanity 			bn-BD			chrome/locale/bn-BD/
+locale 		settingsanity 			br				chrome/locale/br/
+locale 		settingsanity 			bs				chrome/locale/bs/
+locale 		settingsanity 			ca				chrome/locale/ca/
+locale 		settingsanity 			cs				chrome/locale/cs/
+locale 		settingsanity 			csb				chrome/locale/csb/
+locale 		settingsanity 			cy				chrome/locale/cy/
+locale 		settingsanity 			da				chrome/locale/da/
+locale 		settingsanity 			de				chrome/locale/de/
+locale 		settingsanity 			el				chrome/locale/el/
+locale 		settingsanity 			en-GB			chrome/locale/en-GB/
+locale 		settingsanity 			en-US			chrome/locale/en-US/
+locale 		settingsanity 			en-ZA			chrome/locale/en-ZA/
+locale 		settingsanity 			eo				chrome/locale/eo/
+locale 		settingsanity 			es-AR			chrome/locale/es-AR/
+locale 		settingsanity 			es-CL			chrome/locale/es-CL/
+locale 		settingsanity 			es-ES			chrome/locale/es-ES/
+locale 		settingsanity 			es-MX			chrome/locale/es-MX/
+locale 		settingsanity 			et				chrome/locale/et/
+locale 		settingsanity 			eu				chrome/locale/eu/
+locale 		settingsanity 			fa				chrome/locale/fa/
+locale 		settingsanity 			ff				chrome/locale/ff/
+locale 		settingsanity 			fi				chrome/locale/fi/
+locale 		settingsanity 			fr				chrome/locale/fr/
+locale 		settingsanity 			fy-NL			chrome/locale/fy-NL/
+locale 		settingsanity 			ga-IE			chrome/locale/ga-IE/
+locale 		settingsanity 			gd				chrome/locale/gd/
+locale 		settingsanity 			gl				chrome/locale/gl/
+locale 		settingsanity 			gu-IN			chrome/locale/gu-IN/
+locale 		settingsanity 			he				chrome/locale/he/
+locale 		settingsanity 			hi-IN			chrome/locale/hi-IN/
+locale 		settingsanity 			hr				chrome/locale/hr/
+locale 		settingsanity 			hu				chrome/locale/hu/
+locale 		settingsanity 			hy-AM			chrome/locale/hy-AM/
+locale 		settingsanity 			id				chrome/locale/id/
+locale 		settingsanity 			is				chrome/locale/is/
+locale 		settingsanity 			it				chrome/locale/it/
+locale 		settingsanity 			ja				chrome/locale/ja/
+locale 		settingsanity 			ja-JP-mac		chrome/locale/ja-JP-mac/
+locale 		settingsanity 			kk				chrome/locale/kk/
+locale 		settingsanity 			km				chrome/locale/km/
+locale 		settingsanity 			kn				chrome/locale/kn/
+locale 		settingsanity 			ko				chrome/locale/ko/
+locale 		settingsanity 			lij				chrome/locale/lij/
+locale 		settingsanity 			lt				chrome/locale/lt/
+locale 		settingsanity 			lv				chrome/locale/lv/
+locale 		settingsanity 			mai				chrome/locale/mai/
+locale 		settingsanity 			mk				chrome/locale/mk/
+locale 		settingsanity 			ml				chrome/locale/ml/
+locale 		settingsanity 			mr				chrome/locale/mr/
+locale 		settingsanity 			nb-NO			chrome/locale/nb-NO/
+locale 		settingsanity 			nl				chrome/locale/nl/
+locale 		settingsanity 			nn-NO			chrome/locale/nn-NO/
+locale 		settingsanity 			nso				chrome/locale/nso/
+locale 		settingsanity 			or				chrome/locale/or/
+locale 		settingsanity 			pa-IN			chrome/locale/pa-IN/
+locale 		settingsanity 			pl				chrome/locale/pl/
+locale 		settingsanity 			pt-BR			chrome/locale/pt-BR/
+locale 		settingsanity 			pt-PT			chrome/locale/pt-PT/
+locale 		settingsanity 			rm				chrome/locale/rm/
+locale 		settingsanity 			ro				chrome/locale/ro/
+locale 		settingsanity 			ru				chrome/locale/ru/
+locale 		settingsanity 			si				chrome/locale/si/
+locale 		settingsanity 			sk				chrome/locale/sk/
+locale 		settingsanity 			sl				chrome/locale/sl/
+locale 		settingsanity 			son				chrome/locale/son/
+locale 		settingsanity 			sq				chrome/locale/sq/
+locale 		settingsanity 			sr				chrome/locale/sr/
+locale 		settingsanity 			sv-SE			chrome/locale/sv-SE/
+locale 		settingsanity 			ta				chrome/locale/ta/
+locale 		settingsanity 			te				chrome/locale/te/
+locale 		settingsanity 			th				chrome/locale/th/
+locale 		settingsanity 			tr				chrome/locale/tr/
+locale 		settingsanity 			uk				chrome/locale/uk/
+locale 		settingsanity 			vi				chrome/locale/vi/
+locale 		settingsanity 			zh-CN			chrome/locale/zh-CN/
+locale 		settingsanity 			zh-TW			chrome/locale/zh-TW/
+locale 		settingsanity 			zu				chrome/locale/zu/

@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Resimleri göster">
+<!ENTITY  loadImages.accesskey        "s">
+<!ENTITY  exceptions.label            "Ayrıcalıklar…">
+<!ENTITY  exceptions.accesskey        "y">
+<!ENTITY  enableJavaScript.label      "JavaScript'i etkinleştir">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Gelişmiş…">
+<!ENTITY  advancedJS.accesskey        "G">
+<!ENTITY  inContent.title             "Resimler &amp; JavaScript">

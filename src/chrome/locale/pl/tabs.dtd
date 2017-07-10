@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Zawsze wyświetlaj pasek kart">
+<!ENTITY showTabBar.accesskey         "w">
+<!ENTITY  drawInTitlebar.label        "Wyświetlaj karty w pasku tytułu">
+<!ENTITY  drawInTitlebar.accesskey    "k">
+<!ENTITY  tabsOnTop.label             "Karty na górze">
+<!ENTITY  tabsOnTop.accesskey         "r">

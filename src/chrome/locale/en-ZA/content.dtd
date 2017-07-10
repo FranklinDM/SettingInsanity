@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Load images automatically">
+<!ENTITY  loadImages.accesskey        "i">
+<!ENTITY  exceptions.label            "Exceptions…">
+<!ENTITY  exceptions.accesskey        "x">
+<!ENTITY  enableJavaScript.label      "Enable JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Advanced…">
+<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "Images &amp; JavaScript">

@@ -1,0 +1,9 @@
+﻿<!ENTITY loadImages.label            "Képek automatikus betöltése">
+<!ENTITY loadImages.accesskey        "e">
+<!ENTITY exceptions.label            "Kivételek…">
+<!ENTITY exceptions.accesskey        "v">
+<!ENTITY enableJavaScript.label      "JavaScript engedélyezése">
+<!ENTITY enableJavaScript.accesskey  "J">
+<!ENTITY advancedJS.label            "Speciális…">
+<!ENTITY advancedJS.accesskey        "p">
+<!ENTITY inContent.title             "Képek &amp; JavaScript">

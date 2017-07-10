@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Ĉiam montri la langetan strion">
+<!ENTITY showTabBar.accesskey         "s">
+<!ENTITY  drawInTitlebar.label        "Desegni langetoj en titolobreto">
+<!ENTITY  drawInTitlebar.accesskey    "D">
+<!ENTITY  tabsOnTop.label             "Langetoj supre">
+<!ENTITY  tabsOnTop.accesskey         "n">

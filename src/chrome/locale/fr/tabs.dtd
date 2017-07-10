@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Toujours afficher la barre des onglets">
+<!ENTITY showTabBar.accesskey         "T">
+<!ENTITY  drawInTitlebar.label        "Dessinez onglets dans la barre de titre">
+<!ENTITY  drawInTitlebar.accesskey    "D">
+<!ENTITY  tabsOnTop.label             "Barre des onglets au-dessus">
+<!ENTITY  tabsOnTop.accesskey         "B">

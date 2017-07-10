@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "ఎల్లప్పుడు టాబ్ పట్టీని చూపుము">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "శీర్షికపట్టీను లో టాబ్లు గీయండి">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "టాబ్‌లు పైన">
+<!ENTITY  tabsOnTop.accesskey         "p">

@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "Заўсёды паказваць паліцу ўставак">
+<!ENTITY  showTabBar.accesskey        "ў">
+<!ENTITY  drawInTitlebar.label        "Намалюйце укладкі ў Titlebar">
+<!ENTITY  drawInTitlebar.accesskey    "л">
+<!ENTITY  tabsOnTop.label             "Устаўкі ўгары">
+<!ENTITY  tabsOnTop.accesskey         "с">

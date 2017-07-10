@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "ସର୍ବଦା ଟ୍ୟାବ ପଟି ଦର୍ଶାନ୍ତୁ">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "ଉପରେ ଟ୍ୟାବଗୁଡ଼ିକ">
+<!ENTITY  tabsOnTop.accesskey         "p">

@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Ofbyldingen automatysk laden">
+<!ENTITY  loadImages.accesskey        "O">
+<!ENTITY  exceptions.label            "Utsûnderingen…">
+<!ENTITY  exceptions.accesskey        "t">
+<!ENTITY  enableJavaScript.label      "JavaSkript ynskeakelje">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Avansearre…">
+<!ENTITY  advancedJS.accesskey        "A">
+<!ENTITY  inContent.title             "Ofbyldingen &amp; JavaScript">

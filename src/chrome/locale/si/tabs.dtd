@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "සෑම විටම ටැබ් තීරුව පෙන්වන්න">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "මුදුනෙහිම ඇති ටැබ්">
+<!ENTITY  tabsOnTop.accesskey         "p">

@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "常にタブバーを表示する">
+<!ENTITY  showTabBar.accesskey        "b">
+<!ENTITY  drawInTitlebar.label        "タイトルバーのタブ描く">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "タブを上部に表示">
+<!ENTITY  tabsOnTop.accesskey         "p">

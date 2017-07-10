@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "എപ്പോഴും റ്റാബിനുള്ള പട്ട കാണിക്കുക">
+<!ENTITY  showTabBar.accesskey        "b">
+<!ENTITY  drawInTitlebar.label        "">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "റ്റാബുകള്‍ മുകളില്‍‍">
+<!ENTITY  tabsOnTop.accesskey         "p">

@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "टैब पट्टी हमेशा दिखाएँ">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "शीर्षकबार में टैब्स ड्रा">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "शीर्ष पर टैब">
+<!ENTITY  tabsOnTop.accesskey         "p">

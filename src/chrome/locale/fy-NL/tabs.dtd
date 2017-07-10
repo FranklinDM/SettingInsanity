@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "De ljepblêdenbalke altyd sjen litte">
+<!ENTITY showTabBar.accesskey         "D">
+<!ENTITY  drawInTitlebar.label        "">
+<!ENTITY  drawInTitlebar.accesskey    "t">
+<!ENTITY  tabsOnTop.label             "Ljepblêden boppe-op">
+<!ENTITY  tabsOnTop.accesskey         "b">

@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Shfaqe përherë panelin e skedave">
+<!ENTITY showTabBar.accesskey         "S">
+<!ENTITY  drawInTitlebar.label        "Skeda vendi në panelin e titullit">
+<!ENTITY  drawInTitlebar.accesskey    "V">
+<!ENTITY  tabsOnTop.label             "Skedat Përsipër">
+<!ENTITY  tabsOnTop.accesskey         "P">

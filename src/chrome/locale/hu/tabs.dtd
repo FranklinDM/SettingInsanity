@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "A lapok fülei mindig látszanak">
+<!ENTITY showTabBar.accesskey         "f">
+<!ENTITY  drawInTitlebar.label        "Döntetlen lapok címsor">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "Felül elhelyezett fülek">
+<!ENTITY  tabsOnTop.accesskey         "e">

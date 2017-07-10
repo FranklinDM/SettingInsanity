@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Automaticky načítavať obrázky">
+<!ENTITY  loadImages.accesskey        "A">
+<!ENTITY  exceptions.label            "Výnimky…">
+<!ENTITY  exceptions.accesskey        "m">
+<!ENTITY  enableJavaScript.label      "Povoliť JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "c">
+<!ENTITY  advancedJS.label            "Pokročilé…">
+<!ENTITY  advancedJS.accesskey        "r">
+<!ENTITY  inContent.title             "Obrázky &amp; JavaScript">

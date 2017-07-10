@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Luôn luôn hiện thanh thẻ">
+<!ENTITY showTabBar.accesskey         "L">
+<!ENTITY  drawInTitlebar.label        "Vẽ các tab trong thanh tiêu đề">
+<!ENTITY  drawInTitlebar.accesskey    "V">
+<!ENTITY  tabsOnTop.label             "Thẻ nằm Trên cùng">
+<!ENTITY  tabsOnTop.accesskey         "r">

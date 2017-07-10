@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "చిత్రమును స్వయంచాలకంగా లోడుచేయి">
+<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  exceptions.label            "ఎక్సెప్షన్లు...">
+<!ENTITY  exceptions.accesskey        "x">
+<!ENTITY  enableJavaScript.label      "జావాస్క్రిప్ట్ ను చేతనంచేయి">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "అధునాతన...">
+<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "చిత్రాలు &amp; జావాస్క్రిప్ట్">

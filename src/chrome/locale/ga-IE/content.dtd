@@ -1,0 +1,9 @@
+﻿<!ENTITY loadImages.label            "Luchtaigh íomhánna go huathoibríoch">
+<!ENTITY loadImages.accesskey        "L">
+<!ENTITY exceptions.label            "Eisceachtaí…">
+<!ENTITY exceptions.accesskey        "s">
+<!ENTITY enableJavaScript.label      "Cumasaigh JavaScript">
+<!ENTITY enableJavaScript.accesskey  "J">
+<!ENTITY advancedJS.label            "Ardroghanna…">
+<!ENTITY advancedJS.accesskey        "A">
+<!ENTITY inContent.title             "Íomhánna &amp; JavaScript">

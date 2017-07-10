@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ಹಾಳೆ ಪಟ್ಟಿಯನ್ನು ತೋರಿಸು">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "ಉಪಕರಣಪಟ್ಟಿ ಟ್ಯಾಬ್ಗಳನ್ನು ರಚಿಸಿ">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "ಮೇಲಿರುವ ಟ್ಯಾಬ್‌ಗಳು">
+<!ENTITY  tabsOnTop.accesskey         "p">

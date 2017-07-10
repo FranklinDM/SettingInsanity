@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Միշտ ցույց տալ ներդիրների վահանակը">
+<!ENTITY showTabBar.accesskey         "Մ">
+<!ENTITY  drawInTitlebar.label        "Ոչ ոքի Ներդիրներ ի պատուհանի վերնագրի">
+<!ENTITY  drawInTitlebar.accesskey    "Ո">
+<!ENTITY  tabsOnTop.label             "Ներդիրները վերևում">
+<!ENTITY  tabsOnTop.accesskey         "Ն">

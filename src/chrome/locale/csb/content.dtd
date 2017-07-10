@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Ladëjë òbrôzczi automatno">
+<!ENTITY  loadImages.accesskey        "i">
+<!ENTITY  exceptions.label            "Wëjimczi…">
+<!ENTITY  exceptions.accesskey        "j">
+<!ENTITY  enableJavaScript.label      "Włączë JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Awansowóné…">
+<!ENTITY  advancedJS.accesskey        "w">
+<!ENTITY  inContent.title             "Òbrôzczi &amp; JavaScript">

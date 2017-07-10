@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "Vienmēr rādīt cilņu joslu">
+<!ENTITY  showTabBar.accesskey        "j">
+<!ENTITY  drawInTitlebar.label        "Zīmēt cilnes titlujoslas">
+<!ENTITY  drawInTitlebar.accesskey    "Z">
+<!ENTITY  tabsOnTop.label             "Cilnes virspusē">
+<!ENTITY  tabsOnTop.accesskey         "C">

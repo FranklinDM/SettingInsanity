@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "總是顯示分頁工具列">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "繪製選項卡的標題欄">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "分頁列置頂">
+<!ENTITY  tabsOnTop.accesskey         "p">

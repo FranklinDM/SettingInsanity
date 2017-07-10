@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "Vedno prikaži vrstico z zavihki">
+<!ENTITY  showTabBar.accesskey        "v">
+<!ENTITY  drawInTitlebar.label        "Narišite zavihke v naslovni vrstici">
+<!ENTITY  drawInTitlebar.accesskey    "r">
+<!ENTITY  tabsOnTop.label             "Zavihki na vrhu">
+<!ENTITY  tabsOnTop.accesskey         "a">

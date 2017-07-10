@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Chargiar las graficas">
+<!ENTITY  loadImages.accesskey        "g">
+<!ENTITY  exceptions.label            "Excepziuns…">
+<!ENTITY  exceptions.accesskey        "u">
+<!ENTITY  enableJavaScript.label      "Activar JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Extendì…">
+<!ENTITY  advancedJS.accesskey        "x">
+<!ENTITY  inContent.title             "Graficas &amp; JavaScript">

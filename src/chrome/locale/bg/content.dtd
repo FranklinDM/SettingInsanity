@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Автоматично зареждане на изображенията">
+<!ENTITY  loadImages.accesskey        "А">
+<!ENTITY  exceptions.label            "Изключения…">
+<!ENTITY  exceptions.accesskey        "з">
+<!ENTITY  enableJavaScript.label      "Включване на JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "В">
+<!ENTITY  advancedJS.label            "Настройване…">
+<!ENTITY  advancedJS.accesskey        "Н">
+<!ENTITY  inContent.title             "изображения &amp; JavaScript">

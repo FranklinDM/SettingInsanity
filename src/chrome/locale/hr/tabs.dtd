@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Uvijek prikaži traku kartica">
+<!ENTITY showTabBar.accesskey         "t">
+<!ENTITY  drawInTitlebar.label        "Crtanje kartice u naslovnicu">
+<!ENTITY  drawInTitlebar.accesskey    "C">
+<!ENTITY  tabsOnTop.label             "Kartice na vrhu">
+<!ENTITY  tabsOnTop.accesskey         "a">

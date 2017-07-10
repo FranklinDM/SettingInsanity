@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಚಿತ್ರಗಳನ್ನು ಲೋಡ್ ಮಾಡು">
+<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  exceptions.label            "ಹೊರತಾದವುಗಳು...">
+<!ENTITY  exceptions.accesskey        "x">
+<!ENTITY  enableJavaScript.label      "ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್‍ನ್ನು ಶಕ್ತಗೊಳಿಸು">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "ಸುಧಾರಿತ...">
+<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "ಚಿತ್ರಗಳು &amp; JavaScript">

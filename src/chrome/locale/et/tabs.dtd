@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "Kaartide riba näidatakse alati">
+<!ENTITY  showTabBar.accesskey        "l">
+<!ENTITY  drawInTitlebar.label        "Joonista kaardid tiitliribal">
+<!ENTITY  drawInTitlebar.accesskey    "J">
+<!ENTITY  tabsOnTop.label             "Kaardid kõige üleval">
+<!ENTITY  tabsOnTop.accesskey         "r">

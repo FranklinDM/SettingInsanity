@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "Visada rodyti kortelių juostą">
+<!ENTITY  showTabBar.accesskey        "r">
+<!ENTITY  drawInTitlebar.label        "Lygiosios skirtukų antraštės juostos">
+<!ENTITY  drawInTitlebar.accesskey    "L">
+<!ENTITY  tabsOnTop.label             "Kortelės viršuje">
+<!ENTITY  tabsOnTop.accesskey         "v">

@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Pobieraj obrazki automatycznie">
+<!ENTITY  loadImages.accesskey        "o">
+<!ENTITY  exceptions.label            "Wyjątki…">
+<!ENTITY  exceptions.accesskey        "y">
+<!ENTITY  enableJavaScript.label      "Włącz obsługę języka JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Zaawansowane…">
+<!ENTITY  advancedJS.accesskey        "a">
+<!ENTITY  inContent.title             "Obrazków &amp; JavaScript">

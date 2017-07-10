@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "Taispeáin an barra cluaisíní i gcónaí">
+<!ENTITY  showTabBar.accesskey        "b">
+<!ENTITY  drawInTitlebar.label        "Cluaisíní i barra Teidil leag">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "Cluaisíní ar Barr">
+<!ENTITY  tabsOnTop.accesskey         "a">

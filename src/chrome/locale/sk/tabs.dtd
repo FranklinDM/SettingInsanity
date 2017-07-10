@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Vždy zobraziť panel kariet">
+<!ENTITY showTabBar.accesskey         "V">
+<!ENTITY  drawInTitlebar.label        "Nakreslite karty v hlave bare">
+<!ENTITY  drawInTitlebar.accesskey    "h">
+<!ENTITY  tabsOnTop.label             "Karty navrchu">
+<!ENTITY  tabsOnTop.accesskey         "K">

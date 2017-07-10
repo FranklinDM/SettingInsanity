@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Hollu palal tabbe sahaa kala">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "">
+<!ENTITY  drawInTitlebar.accesskey    "s">
+<!ENTITY  tabsOnTop.label             "Tabbe Dow">
+<!ENTITY  tabsOnTop.accesskey         "D">

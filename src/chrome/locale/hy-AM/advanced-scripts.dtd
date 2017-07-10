@@ -1,0 +1,9 @@
+﻿<!ENTITY advancedJSDialog.title           "JavaScript-ի Խորացված Դրույթներ">
+<!ENTITY window.width                     "37em">
+<!ENTITY allowScripts.label               "Գրվածքներին թույլատրել.">
+<!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
+<!ENTITY moveResizePopupWindows.accesskey "M">
+<!ENTITY raiseLowerWindows.label          "Բարձրացնել կամ թաքցնել պատուհանները">
+<!ENTITY raiseLowerWindows.accesskey      "R">
+<!ENTITY disableContextMenus.label        "Անջատել կամ փողարկել բովանդակային հրամանացանկը">
+<!ENTITY disableContextMenus.accesskey    "D">

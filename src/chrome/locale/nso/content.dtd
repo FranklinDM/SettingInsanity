@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Hlahlela diswantšho ka maitirišo">
+<!ENTITY  loadImages.accesskey        "d">
+<!ENTITY  exceptions.label            "Tše sa akaretšwego…">
+<!ENTITY  exceptions.accesskey        "k">
+<!ENTITY  enableJavaScript.label      "Kgonagatša JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Gatetšego pele…">
+<!ENTITY  advancedJS.accesskey        "t">
+<!ENTITY  inContent.title             "Diswantšho &amp; JavaScript">

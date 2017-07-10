@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "自動載入圖片">
+<!ENTITY  loadImages.accesskey        "i">
+<!ENTITY  exceptions.label            "例外網站…">
+<!ENTITY  exceptions.accesskey        "x">
+<!ENTITY  enableJavaScript.label      "啟用 JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "進階…">
+<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "圖片 &amp; JavaScript">

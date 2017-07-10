@@ -1,0 +1,9 @@
+﻿<!ENTITY loadImages.label            "படங்களை தானாக ஏற்று">
+<!ENTITY loadImages.accesskey        "I">
+<!ENTITY exceptions.label            "விதிவிலக்குகள்">
+<!ENTITY exceptions.accesskey        "x">
+<!ENTITY enableJavaScript.label      "JavaScriptஐ செயல்படுத்து">
+<!ENTITY enableJavaScript.accesskey  "J">
+<!ENTITY advancedJS.label            "உயர்நிலை...">
+<!ENTITY advancedJS.accesskey        "v">
+<!ENTITY inContent.title             "படங்கள் &amp; JavaScript">

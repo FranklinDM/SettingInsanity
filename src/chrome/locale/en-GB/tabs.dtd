@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "Always show the tab bar">
+<!ENTITY  showTabBar.accesskey        "A">
+<!ENTITY  drawInTitlebar.label        "Draw tabs in Titlebar">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "Tabs on Top">
+<!ENTITY  tabsOnTop.accesskey         "p">

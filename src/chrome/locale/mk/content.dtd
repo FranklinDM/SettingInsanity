@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Автоматско вчитување на слики">
+<!ENTITY  loadImages.accesskey        "и">
+<!ENTITY  exceptions.label            "Исклучоци…">
+<!ENTITY  exceptions.accesskey        "к">
+<!ENTITY  enableJavaScript.label      "Овозможи JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  advancedJS.label            "Напредно…">
+<!ENTITY  advancedJS.accesskey        "а">
+<!ENTITY  inContent.title             "слики &amp; JavaScript">

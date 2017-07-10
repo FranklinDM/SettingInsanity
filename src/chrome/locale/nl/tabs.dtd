@@ -1,0 +1,6 @@
+<!ENTITY showTabBar.label             "De tabbladenbalk altijd tonen">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "Tabbladen in titelbalk tekenen">
+<!ENTITY  drawInTitlebar.accesskey    "i">
+<!ENTITY  tabsOnTop.label             "Bovenliggende tabbladen">
+<!ENTITY  tabsOnTop.accesskey         "o">

@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Ngarkoji figurat vetvetiu">
+<!ENTITY  loadImages.accesskey        "V">
+<!ENTITY  exceptions.label            "Përjashtime…">
+<!ENTITY  exceptions.accesskey        "r">
+<!ENTITY  enableJavaScript.label      "Aktivizo JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "A">
+<!ENTITY  advancedJS.label            "Të mëtejshme…">
+<!ENTITY  advancedJS.accesskey        "e">
+<!ENTITY  inContent.title             "Figura &amp; JavaScript">

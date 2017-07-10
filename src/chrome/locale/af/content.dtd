@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Laai prente outomaties">
+<!ENTITY  loadImages.accesskey        "p">
+<!ENTITY  exceptions.label            "Uitsonderings…">
+<!ENTITY  exceptions.accesskey        "i">
+<!ENTITY  enableJavaScript.label      "Aktiveer JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Gevorderd…">
+<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "Prente &amp; JavaScript">

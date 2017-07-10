@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "Mostrar siempre la barra de pestañas">
+<!ENTITY  showTabBar.accesskey        "s">
+<!ENTITY  drawInTitlebar.label        "Dibuja pestañas en barra de título">
+<!ENTITY  drawInTitlebar.accesskey    "D">
+<!ENTITY  tabsOnTop.label             "Pestañas arriba">
+<!ENTITY  tabsOnTop.accesskey         "a">

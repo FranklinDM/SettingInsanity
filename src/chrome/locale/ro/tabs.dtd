@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Arată întotdeauna bara de file">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "Trage file în bara de titlu">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "Filele deasupra">
+<!ENTITY  tabsOnTop.accesskey         "F">

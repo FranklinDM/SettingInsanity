@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "ছবি স্বয়ংক্রিয়ভাবে লোড করা হবে (I)">
+<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  exceptions.label            "ব্যতিক্রম... (X)">
+<!ENTITY  exceptions.accesskey        "X">
+<!ENTITY  enableJavaScript.label      "JavaScript সক্রিয় করা হবে (J)">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "উচ্চপর্যায়ের... (v)">
+<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "ছবি &amp; JavaScript">

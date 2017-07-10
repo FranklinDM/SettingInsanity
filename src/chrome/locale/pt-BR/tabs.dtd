@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Sempre exibir a barra de abas">
+<!ENTITY showTabBar.accesskey         "S">
+<!ENTITY  drawInTitlebar.label        "Desenhe abas na barra de título">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "Abas em cima">
+<!ENTITY  tabsOnTop.accesskey         "c">

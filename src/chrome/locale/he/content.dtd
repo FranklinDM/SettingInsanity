@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "טעינת תמונות אוטומטית">
+<!ENTITY  loadImages.accesskey        "ת">
+<!ENTITY  exceptions.label            "חריגות...">
+<!ENTITY  exceptions.accesskey        "י">
+<!ENTITY  enableJavaScript.label      "אפשר JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "פ">
+<!ENTITY  advancedJS.label            "מתקדם...">
+<!ENTITY  advancedJS.accesskey        "ק">
+<!ENTITY  inContent.title             "תמונות &amp; JavaScript">

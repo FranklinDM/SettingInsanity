@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "Sýna alltaf flipaslá">
+<!ENTITY  showTabBar.accesskey        "p">
+<!ENTITY  drawInTitlebar.label        "Draga flipa í titilrönd">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "Flipar efst">
+<!ENTITY  tabsOnTop.accesskey         "t">

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<!-- This code is in the public domain. No ownership is implied. -->
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+ <Description about="urn:mozilla:install-manifest">
+  <em:name>SettingInsanity</em:name>
+  <em:id>settinginsanity@franklindm</em:id>
+  <em:version>1.0.0</em:version>
+  <em:type>2</em:type>
+  <em:targetApplication>
+	<Description>
+	  <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id> <!-- Pale Moon -->
+	  <em:minVersion>27.0.0b3</em:minVersion>
+	  <em:maxVersion>27.*</em:maxVersion>
+	</Description>
+  </em:targetApplication>
+  <em:description>Restores a few settings that were removed from the Options window.</em:description>
+  <em:homepageURL>http://realityripple.com/Software/Mozilla_Extensions/SettingSanity/</em:homepageURL>
+  <em:iconURL>chrome://settingsanity/skin/logo.png</em:iconURL>
+  <em:icon64URL>chrome://settingsanity/skin/logo64.png</em:icon64URL>
+  <em:creator>RealityRipple, FranklinDM</em:creator>
+ </Description>
+</RDF>

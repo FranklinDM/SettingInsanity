@@ -1,0 +1,9 @@
+﻿<!ENTITY loadImages.label            "Kargatu irudiak automatikoki">
+<!ENTITY loadImages.accesskey        "K">
+<!ENTITY exceptions.label            "Salbuespenak…">
+<!ENTITY exceptions.accesskey        "S">
+<!ENTITY enableJavaScript.label      "Gaitu JavaScript">
+<!ENTITY enableJavaScript.accesskey  "G">
+<!ENTITY advancedJS.label            "Aurreratua…">
+<!ENTITY advancedJS.accesskey        "A">
+<!ENTITY inContent.title             "Irudiak &amp; JavaScript">

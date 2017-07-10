@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Seall bàr nan taba an-còmhnaidh">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "Cum tabaichean air uachdar">
+<!ENTITY  tabsOnTop.accesskey         "C">

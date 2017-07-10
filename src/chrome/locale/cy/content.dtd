@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Llwytho delweddau'n awtomatic">
+<!ENTITY  loadImages.accesskey        "L">
+<!ENTITY  exceptions.label            "Eithriadau…">
+<!ENTITY  exceptions.accesskey        "i">
+<!ENTITY  enableJavaScript.label      "Galluogi Javascript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Uwch…">
+<!ENTITY  advancedJS.accesskey        "U">
+<!ENTITY  inContent.title             "Delweddau &amp; JavaScript">

@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Секогаш прикажувај ја лентата за јазичиња">
+<!ENTITY showTabBar.accesskey         "т">
+<!ENTITY  drawInTitlebar.label        "Подготви јазичиња во лентата со наслов">
+<!ENTITY  drawInTitlebar.accesskey    "д">
+<!ENTITY  tabsOnTop.label             "Јазичињата на врв">
+<!ENTITY  tabsOnTop.accesskey         "в">

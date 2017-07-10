@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Лентата с подпрозорци винаги да е показана">
+<!ENTITY showTabBar.accesskey         "Л">
+<!ENTITY  drawInTitlebar.label        "Изготви разделите в заглавната лента">
+<!ENTITY  drawInTitlebar.accesskey    "И">
+<!ENTITY  tabsOnTop.label             "Подпрозорците отгоре">
+<!ENTITY  tabsOnTop.accesskey         "П">

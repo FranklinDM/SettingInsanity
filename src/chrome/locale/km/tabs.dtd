@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "បង្ហាញ​របារ​ផ្ទាំង​ជានិច្ច">
+<!ENTITY  showTabBar.accesskey        "ញ">
+<!ENTITY  drawInTitlebar.label        "គូរផ្ទាំងនៅក្នុងរបារចំណងជើង">
+<!ENTITY  drawInTitlebar.accesskey    "គ">
+<!ENTITY  tabsOnTop.label             "ផ្ទាំង​នៅ​លើ">
+<!ENTITY  tabsOnTop.accesskey         "T">

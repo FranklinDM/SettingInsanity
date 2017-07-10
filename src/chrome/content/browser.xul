@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://settingsanity/skin/overlay.css" type="text/css"?>
+<!DOCTYPE dialog SYSTEM "chrome://settingsanity/locale/content.dtd">
+<overlay id="settingsanityOverlay" 
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+ <script type="application/x-javascript" src="chrome://settingsanity/content/browser.js" />
+ <toolbarpalette id="BrowserToolbarPalette">
+  <toolbarbutton id="toggle-image-button" />
+  <toolbarbutton id="toggle-js-button" />
+ </toolbarpalette>
+ <toolbarbutton id="toggle-image-button"
+                label="&loadImages.label;"
+                oncommand="com.RealityRipple.SettingSanity.ToggleImages();"
+                tooltiptext="&loadImages.label;"
+                class="toolbarbutton-1 chromeclass-toolbar-additional on" />
+ <toolbarbutton id="toggle-js-button"
+                label="&enableJavaScript.label;"
+                oncommand="com.RealityRipple.SettingSanity.ToggleJS();"
+                tooltiptext="&enableJavaScript.label;"
+                class="toolbarbutton-1 chromeclass-toolbar-additional on" />
+</overlay>

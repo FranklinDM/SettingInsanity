@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Mostrar sempre a barra dos separadores">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "Desenhe separadores na barra de título">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "Separadores em cima">
+<!ENTITY  tabsOnTop.accesskey         "c">

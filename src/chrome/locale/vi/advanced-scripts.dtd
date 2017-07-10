@@ -1,0 +1,9 @@
+﻿<!ENTITY advancedJSDialog.title           "Thiết lập JavaScript Nâng cao">
+<!ENTITY window.width                     "37em">
+<!ENTITY allowScripts.label               "Cho phép các đoạn mã:">
+<!ENTITY moveResizePopupWindows.label     "Di chuyển hoặc chỉnh kích thước các cửa sổ popup (M)">
+<!ENTITY moveResizePopupWindows.accesskey "M">
+<!ENTITY raiseLowerWindows.label          "Nâng hoặc hạ cửa sổ">
+<!ENTITY raiseLowerWindows.accesskey      "g">
+<!ENTITY disableContextMenus.label        "Vô hiệu hóa hoặc thay thế các trình đơn ngữ cảnh">
+<!ENTITY disableContextMenus.accesskey    "V">

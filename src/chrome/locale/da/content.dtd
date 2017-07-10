@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Indlæs billeder automatisk">
+<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  exceptions.label            "Undtagelser…">
+<!ENTITY  exceptions.accesskey        "n">
+<!ENTITY  enableJavaScript.label      "Aktiver JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  advancedJS.label            "Avanceret JavaScript…">
+<!ENTITY  advancedJS.accesskey        "A">
+<!ENTITY  inContent.title             "Billeder &amp; JavaScript">

@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "แสดงแถบแท็บเสมอ">
+<!ENTITY  showTabBar.accesskey        "ถ">
+<!ENTITY  drawInTitlebar.label        "วาดแท็บในแถบชื่อ">
+<!ENTITY  drawInTitlebar.accesskey    "ว">
+<!ENTITY  tabsOnTop.label             "แท็บอยู่ด้านบน">
+<!ENTITY  tabsOnTop.accesskey         "บ">

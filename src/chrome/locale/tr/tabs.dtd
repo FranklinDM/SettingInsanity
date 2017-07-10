@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Sekme çubuğunu her zaman göster">
+<!ENTITY showTabBar.accesskey         "k">
+<!ENTITY  drawInTitlebar.label        "Başlık çubuğunda sekmeler Beraberlik">
+<!ENTITY  drawInTitlebar.accesskey    "k">
+<!ENTITY  tabsOnTop.label             "Sekmeler tepede">
+<!ENTITY  tabsOnTop.accesskey         "t">

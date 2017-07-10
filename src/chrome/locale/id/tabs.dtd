@@ -1,0 +1,6 @@
+<!ENTITY showTabBar.label             "Selalu tampilkan bilah tab">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "Menarik tab di Titlebar">
+<!ENTITY  drawInTitlebar.accesskey    "t">
+<!ENTITY  tabsOnTop.label             "Tab di bagian atas">
+<!ENTITY  tabsOnTop.accesskey         "a">

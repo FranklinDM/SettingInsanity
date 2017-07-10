@@ -1,0 +1,9 @@
+﻿<!ENTITY advancedJSDialog.title           "प्रगत जावास्क्रिप्ट संरचना">
+<!ENTITY window.width                     "37em">
+<!ENTITY allowScripts.label               "स्क्रिप्टला परवानगी द्या..">
+<!ENTITY moveResizePopupWindows.accesskey "M">
+<!ENTITY moveResizePopupWindows.label     "पॉपअप पटलांना हलवा किंवा पुनःआकार द्या">
+<!ENTITY raiseLowerWindows.label          "दृश्यचौकट वर किंवा खाली करा">
+<!ENTITY raiseLowerWindows.accesskey      "R">
+<!ENTITY disableContextMenus.label        "स्थितीजन्य मेनु अकार्यान्वीत करा किंवा बदला">
+<!ENTITY disableContextMenus.accesskey    "D">

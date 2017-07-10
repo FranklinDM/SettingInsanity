@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "පිංතුර ස්වයංක්‍රීයව ලබාගනු">
+<!ENTITY  loadImages.accesskey        "i">
+<!ENTITY  exceptions.label            "හැරදැමීම්...">
+<!ENTITY  exceptions.accesskey        "x">
+<!ENTITY  enableJavaScript.label      "JavaScript සක්‍රීය කරන්න">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "වැඩිමනත්...">
+<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "පිංතුර &amp; JavaScript">

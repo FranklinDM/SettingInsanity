@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "ਹਮੇਸ਼ਾਂ ਟੈਬ ਪੱਟੀ ਵਰਤੋਂ">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "ਟਾਇਟਲਬਾਰ ਵਿੱਚ ਟੈਬ ਬਣਾਉ">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "ਟੈਬਾਂ ਉੱਤੇ">
+<!ENTITY  tabsOnTop.accesskey         "p">

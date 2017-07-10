@@ -1,0 +1,9 @@
+﻿<!ENTITY loadImages.label            "이미지 자동으로 읽기">
+<!ENTITY loadImages.accesskey        "I">
+<!ENTITY exceptions.label            "예외 목록…">
+<!ENTITY exceptions.accesskey        "x">
+<!ENTITY enableJavaScript.label      "자바스크립트 사용">
+<!ENTITY enableJavaScript.accesskey  "J">
+<!ENTITY advancedJS.label            "고급 설정…">
+<!ENTITY advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "이미지 &amp; 자바스크립트">

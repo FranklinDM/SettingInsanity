@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "স্বয়ং প্ৰতিমূৰ্ত্তি তুলি ল'ব">
+<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  exceptions.label            "অব্যাহতি...">
+<!ENTITY  exceptions.accesskey        "x">
+<!ENTITY  enableJavaScript.label      "JavaScript সক্ৰীয় কৰক">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "উন্নত...">
+<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "ছবি &amp; JavaScript">

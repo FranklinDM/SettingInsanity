@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Càrega e inmàgini in aotomàtico">
+<!ENTITY  loadImages.accesskey        "à">
+<!ENTITY  exceptions.label            "Eceçioìn…">
+<!ENTITY  exceptions.accesskey        "ç">
+<!ENTITY  enableJavaScript.label      "Abìlita JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Avansæ…">
+<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "Inmàgini &amp; JavaScript">

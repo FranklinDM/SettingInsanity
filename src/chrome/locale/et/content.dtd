@@ -1,0 +1,9 @@
+﻿<!ENTITY loadImages.label           "Pildid laaditakse automaatselt">
+<!ENTITY loadImages.accesskey       "P">
+<!ENTITY exceptions.label           "Erandid...">
+<!ENTITY exceptions.accesskey       "a">
+<!ENTITY enableJavaScript.label     "JavaScript lubatakse">
+<!ENTITY enableJavaScript.accesskey "J">
+<!ENTITY advancedJS.label           "Täpsemalt...">
+<!ENTITY advancedJS.accesskey       "T">
+<!ENTITY inContent.title            "Pildid &amp; JavaScript">

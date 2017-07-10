@@ -1,0 +1,9 @@
+﻿<!ENTITY advancedJSDialog.title           "Teelte JavaScript Ceeɓtore">
+<!ENTITY window.width                     "37em">
+<!ENTITY allowScripts.label               "Yamir ciifte yoo:">
+<!ENTITY moveResizePopupWindows.label     "Dirtin walla waylu ɓetol kenorɗe cuppitte">
+<!ENTITY moveResizePopupWindows.accesskey "w">
+<!ENTITY raiseLowerWindows.label          "Toownu walla lesɗin kenorɗe">
+<!ENTITY raiseLowerWindows.accesskey      "T">
+<!ENTITY disableContextMenus.label        "Daaƴ walla lomtin dosi loowdi">
+<!ENTITY disableContextMenus.accesskey    "D">

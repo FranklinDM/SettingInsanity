@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Last inn bilde automatisk">
+<!ENTITY  loadImages.accesskey        "L">
+<!ENTITY  exceptions.label            "Unntak …">
+<!ENTITY  exceptions.accesskey        "n">
+<!ENTITY  enableJavaScript.label      "Tillat JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Avansert …">
+<!ENTITY  advancedJS.accesskey        "r">
+<!ENTITY  inContent.title             "Bilde &amp; JavaScript">

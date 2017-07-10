@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Loow nate ɗee e jaajol">
+<!ENTITY  loadImages.accesskey        "w">
+<!ENTITY  exceptions.label            "Paltooje…">
+<!ENTITY  exceptions.accesskey        "a">
+<!ENTITY  enableJavaScript.label      "Daaƴtu JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Ceeɓtore…">
+<!ENTITY  advancedJS.accesskey        "e">
+<!ENTITY  inContent.title             "Nate &amp; JavaScript">

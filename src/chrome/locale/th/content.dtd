@@ -1,0 +1,9 @@
+﻿<!ENTITY loadImages.label           "โหลดรูปอัตโนมัติ">
+<!ENTITY loadImages.accesskey       "ร">
+<!ENTITY exceptions.label           "ยกเว้น…">
+<!ENTITY exceptions.accesskey       "ว">
+<!ENTITY enableJavaScript.label     "เปิดใช้จาวาสคริปต์">
+<!ENTITY enableJavaScript.accesskey "จ">
+<!ENTITY advancedJS.label           "ขั้นสูง…">
+<!ENTITY advancedJS.accesskey       "ข">
+<!ENTITY inContent.title            "รูปภาพ &amp; จาวาสคริปต์">

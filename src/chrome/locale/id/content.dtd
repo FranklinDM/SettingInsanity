@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Muat gambar secara otomatis">
+<!ENTITY  loadImages.accesskey        "o">
+<!ENTITY  exceptions.label            "Pengecualian…">
+<!ENTITY  exceptions.accesskey        "l">
+<!ENTITY  enableJavaScript.label      "Aktifkan JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  advancedJS.label            "Canggih…">
+<!ENTITY  advancedJS.accesskey        "C">
+<!ENTITY  inContent.title             "Gambar &amp; JavaScript">

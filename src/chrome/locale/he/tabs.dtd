@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "הצג תמיד את סרגל הלשוניות">
+<!ENTITY showTabBar.accesskey         "צ">
+<!ENTITY  drawInTitlebar.label        "צייר כרטיסיות בשורת הכותרת">
+<!ENTITY  drawInTitlebar.accesskey    "ב">
+<!ENTITY  tabsOnTop.label             "לשונית בראש החלון">
+<!ENTITY  tabsOnTop.accesskey         "ש">

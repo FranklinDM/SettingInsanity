@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "எப்போதும் தத்தல் பட்டையைக் காட்டு">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "தலைப்புப்பட்டி உள்ள தாவல்களை டிரா">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "மேலேயுள்ள தத்தல்கள்">
+<!ENTITY  tabsOnTop.accesskey         "T">

@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Įkelti paveikslus">
+<!ENTITY  loadImages.accesskey        "e">
+<!ENTITY  exceptions.label            "Išimtys">
+<!ENTITY  exceptions.accesskey        "m">
+<!ENTITY  enableJavaScript.label      "Leisti naudoti „JavaScript“">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Kitkas…">
+<!ENTITY  advancedJS.accesskey        "K">
+<!ENTITY  inContent.title             "Paveikslai &amp; JavaScript">

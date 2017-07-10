@@ -1,0 +1,6 @@
+<!ENTITY showTabBar.label             "Erakutsi beti fitxa-barra">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "Marraztu fitxak Izenburu-barra batean">
+<!ENTITY  drawInTitlebar.accesskey    "M">
+<!ENTITY  tabsOnTop.label             "Fitxak goian">
+<!ENTITY  tabsOnTop.accesskey         "F">

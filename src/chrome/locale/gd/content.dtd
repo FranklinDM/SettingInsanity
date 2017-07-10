@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Luchdaichear dealbhan leis fhèin">
+<!ENTITY  loadImages.accesskey        "i">
+<!ENTITY  exceptions.label            "Eisgeachdan…">
+<!ENTITY  exceptions.accesskey        "E">
+<!ENTITY  enableJavaScript.label      "Cuir JavaScript an comas">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Adhartach…">
+<!ENTITY  advancedJS.accesskey        "t">
+<!ENTITY  inContent.title             "Dealbhan &amp; JavaScript">

@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Завжди показувати панель вкладок">
+<!ENTITY showTabBar.accesskey         "а">
+<!ENTITY  drawInTitlebar.label        "Намалюйте вкладки в заголовку">
+<!ENTITY  drawInTitlebar.accesskey    "м">
+<!ENTITY  tabsOnTop.label             "Вкладки зверху">
+<!ENTITY  tabsOnTop.accesskey         "з">

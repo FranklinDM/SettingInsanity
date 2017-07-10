@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Автоматично завантажувати зображення">
+<!ENTITY  loadImages.accesskey        "и">
+<!ENTITY  exceptions.label            "Винятки…">
+<!ENTITY  exceptions.accesskey        "и">
+<!ENTITY  enableJavaScript.label      "Дозволити JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "и">
+<!ENTITY  advancedJS.label            "Додатково…">
+<!ENTITY  advancedJS.accesskey        "о">
+<!ENTITY  inContent.title             "Зображення &amp; JavaScript">

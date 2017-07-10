@@ -1,0 +1,29 @@
+/* 24px toolbar images */
+#toggle-image-button.off {
+ list-style-image: url(chrome://settingsanity/skin/img/img-d-24.png);
+}
+#toggle-image-button.on {
+ list-style-image: url(chrome://settingsanity/skin/img/img-e-24.png);
+}
+
+#toggle-js-button.off {
+ list-style-image: url(chrome://settingsanity/skin/js/js-d-24.png);
+}
+#toggle-js-button.on {
+ list-style-image: url(chrome://settingsanity/skin/js/js-e-24.png);
+}
+
+/* 16px toolbar images */
+toolbar[iconsize="small"] #toggle-image-button.off {
+ list-style-image: url(chrome://settingsanity/skin/img/img-d-16.png);
+}
+toolbar[iconsize="small"] #toggle-image-button.on {
+ list-style-image: url(chrome://settingsanity/skin/img/img-e-16.png);
+}
+
+toolbar[iconsize="small"] #toggle-js-button.off {
+ list-style-image: url(chrome://settingsanity/skin/js/js-d-16.png);
+}
+toolbar[iconsize="small"] #toggle-js-button.on {
+ list-style-image: url(chrome://settingsanity/skin/js/js-e-16.png);
+}

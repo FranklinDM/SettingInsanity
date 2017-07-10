@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label		"画像を自動的に読み込む">
+<!ENTITY  loadImages.accesskey		"I">
+<!ENTITY  exceptions.label		"例外サイト...">
+<!ENTITY  exceptions.accesskey		"x">
+<!ENTITY  enableJavaScript.label	"JavaScript を有効にする">
+<!ENTITY  enableJavaScript.accesskey	"J">
+<!ENTITY  advancedJS.label		"詳細設定...">
+<!ENTITY  advancedJS.accesskey		"v">
+<!ENTITY  inContent.title               "画像の読み込み &amp; JavaScript">

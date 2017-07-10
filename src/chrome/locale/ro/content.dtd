@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Încarcă imaginile automat">
+<!ENTITY  loadImages.accesskey        "n">
+<!ENTITY  exceptions.label            "Excepții...">
+<!ENTITY  exceptions.accesskey        "x">
+<!ENTITY  enableJavaScript.label      "Permite JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "c">
+<!ENTITY  advancedJS.label            "Avansat...">
+<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  inContent.title             "Imagini &amp; JavaScript">

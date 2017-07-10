@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "ផ្ទុក​រូបភាព​ដោយ​ស្វ័យប្រវត្តិ">
+<!ENTITY  loadImages.accesskey        "ព">
+<!ENTITY  exceptions.label            "ករណី​លើកលែង…">
+<!ENTITY  exceptions.accesskey        "ង">
+<!ENTITY  enableJavaScript.label      "បើក JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "កម្រិត​ខ្ពស់…">
+<!ENTITY  advancedJS.accesskey        "ត">
+<!ENTITY  inContent.title             "រូបភាព &amp; JavaScript">

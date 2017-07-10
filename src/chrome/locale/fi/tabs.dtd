@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Välilehtipalkki on aina esillä">
+<!ENTITY showTabBar.accesskey         "p">
+<!ENTITY  drawInTitlebar.label        "Piirrä välilehdet Otsikkopalkin">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "Välilehdet yläpuolella">
+<!ENTITY  tabsOnTop.accesskey         "y">

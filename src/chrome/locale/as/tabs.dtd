@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "সদায়ে টেব বাৰ দেখাব">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "ওপৰত থকা টেবসমূহ">
+<!ENTITY  tabsOnTop.accesskey         "p">

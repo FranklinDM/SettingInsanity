@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Αυτόματη φόρτωση εικόνων">
+<!ENTITY  loadImages.accesskey        "ι">
+<!ENTITY  exceptions.label            "Εξαιρέσεις">
+<!ENTITY  exceptions.accesskey        "Ε">
+<!ENTITY  enableJavaScript.label      "Ενεργοποίηση JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  advancedJS.label            "Για προχωρημένους...">
+<!ENTITY  advancedJS.accesskey        "ο">
+<!ENTITY  inContent.title             "Εικόνες &amp; JavaScript">

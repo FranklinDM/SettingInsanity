@@ -1,0 +1,9 @@
+﻿<!ENTITY  loadImages.label            "Tự động tải ảnh">
+<!ENTITY  loadImages.accesskey        "i">
+<!ENTITY  exceptions.label            "Ngoại trừ…">
+<!ENTITY  exceptions.accesskey        "r">
+<!ENTITY  enableJavaScript.label      "Bật JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  advancedJS.label            "Nâng cao…">
+<!ENTITY  advancedJS.accesskey        "a">
+<!ENTITY  inContent.title             "Hình ảnh &amp; JavaScript">

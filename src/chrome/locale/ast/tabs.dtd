@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Amosar siempre la barra de llingüetes">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "Llingüetes na parte superior">
+<!ENTITY  tabsOnTop.accesskey         "t">

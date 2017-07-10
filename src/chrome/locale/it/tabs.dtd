@@ -1,0 +1,6 @@
+﻿<!ENTITY  showTabBar.label            "Mostra sempre la barra delle schede">
+<!ENTITY  showTabBar.accesskey        "M">
+<!ENTITY  drawInTitlebar.label        "Disegnare schede della barra del titolo">
+<!ENTITY  drawInTitlebar.accesskey    "D">
+<!ENTITY  tabsOnTop.label             "Visualizza le schede in alto">
+<!ENTITY  tabsOnTop.accesskey         "s">

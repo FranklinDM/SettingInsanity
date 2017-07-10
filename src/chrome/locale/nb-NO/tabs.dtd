@@ -1,0 +1,6 @@
+﻿<!ENTITY showTabBar.label             "Alltid vis fanelinjen">
+<!ENTITY showTabBar.accesskey         "v">
+<!ENTITY  drawInTitlebar.label        "Tegn faner i tittellinja">
+<!ENTITY  drawInTitlebar.accesskey    "d">
+<!ENTITY  tabsOnTop.label             "Faner øverst">
+<!ENTITY  tabsOnTop.accesskey         "F">

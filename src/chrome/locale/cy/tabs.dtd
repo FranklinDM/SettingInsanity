@@ -1,0 +1,6 @@
+<!ENTITY showTabBar.label             "Dangos y bar tab">
+<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY  drawInTitlebar.label        "tabiau fynd i Bar Teitl">
+<!ENTITY  drawInTitlebar.accesskey    "f">
+<!ENTITY  tabsOnTop.label             "Tabiau ar y Brig"">
+<!ENTITY  tabsOnTop.accesskey         "T">

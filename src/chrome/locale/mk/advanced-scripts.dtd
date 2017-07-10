@@ -1,0 +1,9 @@
+﻿<!ENTITY advancedJSDialog.title           "Напредни поставки за JavaScript">
+<!ENTITY window.width                     "37em">
+<!ENTITY allowScripts.label               "Дозволи скриптите да:">
+<!ENTITY moveResizePopupWindows.label     "Премести или промени скоккачки прозорци">
+<!ENTITY moveResizePopupWindows.accesskey "м">
+<!ENTITY raiseLowerWindows.label          "Креваат или спуштаат прозорци">
+<!ENTITY raiseLowerWindows.accesskey      "р">
+<!ENTITY disableContextMenus.label        "Оневозможуваат или заменуваат контекстни менија">
+<!ENTITY disableContextMenus.accesskey    "н">
