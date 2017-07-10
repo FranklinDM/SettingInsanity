@@ -1,6 +1,2 @@
-﻿<!ENTITY showTabBar.label             "Nyut bar me tab kare ki kare">
-<!ENTITY showTabBar.accesskey         "e">
-<!ENTITY drawInTitlebar.label         "">
+﻿<!ENTITY drawInTitlebar.label         "">
 <!ENTITY drawInTitlebar.accesskey     "b">
-<!ENTITY tabsOnTop.label              "Dirica ma iwiye">
-<!ENTITY tabsOnTop.accesskey          "m">

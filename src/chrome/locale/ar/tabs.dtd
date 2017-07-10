@@ -1,6 +1,2 @@
-﻿<!ENTITY showTabBar.label             "أظهر شريط الألسنة دوما">
-<!ENTITY showTabBar.accesskey         "ش">
-<!ENTITY  drawInTitlebar.label        "رسم علامات التبويب في شريط العنوان">
+﻿<!ENTITY  drawInTitlebar.label        "رسم علامات التبويب في شريط العنوان">
 <!ENTITY  drawInTitlebar.accesskey    "ر">
-<!ENTITY  tabsOnTop.label             "الألسنة في الأعلى">
-<!ENTITY  tabsOnTop.accesskey         "ع">

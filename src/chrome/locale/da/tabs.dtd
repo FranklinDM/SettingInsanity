@@ -1,6 +1,2 @@
-﻿<!ENTITY showTabBar.label             "Vis altid fanebladslinjen">
-<!ENTITY showTabBar.accesskey         "V">
-<!ENTITY  drawInTitlebar.label        "Tegne faneblade i Titlebar">
+﻿<!ENTITY  drawInTitlebar.label        "Tegne faneblade i Titlebar">
 <!ENTITY  drawInTitlebar.accesskey    "T">
-<!ENTITY  tabsOnTop.label             "Faneblade øverst">
-<!ENTITY  tabsOnTop.accesskey         "ø">

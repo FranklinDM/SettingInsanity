@@ -1,6 +1,2 @@
-﻿<!ENTITY showTabBar.label             "ট্যাব বার সব সময় প্রদর্শন করা হবে (b)">
-<!ENTITY showTabBar.accesskey         "b">
-<!ENTITY  drawInTitlebar.label        "Titlebar মধ্যে ট্যাবগুলি ড্র (d)"
+﻿<!ENTITY  drawInTitlebar.label        "Titlebar মধ্যে ট্যাবগুলি ড্র (d)"
 <!ENTITY  drawInTitlebar.accesskey    "d">
-<!ENTITY  tabsOnTop.label             "শীর্ষ ট্যাব (p)">
-<!ENTITY  tabsOnTop.accesskey         "p">

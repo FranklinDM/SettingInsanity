@@ -1,6 +1,2 @@
-﻿<!ENTITY showTabBar.label             "Wys altyd die oortjiebalk">
-<!ENTITY showTabBar.accesskey         "b">
-<!ENTITY  drawInTitlebar.label        "Trek oortjies in titelbalk">
+﻿<!ENTITY  drawInTitlebar.label        "Trek oortjies in titelbalk">
 <!ENTITY  drawInTitlebar.accesskey    "t">
-<!ENTITY  tabsOnTop.label             "Oortjies bo-op">
-<!ENTITY  tabsOnTop.accesskey         "p">

@@ -1,7 +1,2 @@
-﻿<!ENTITY showTabBar.label             "Wëskrzëniôj wiedno lëstew kôrtów">
-<!ENTITY showTabBar.accesskey         "w">
-<!ENTITY  drawInTitlebar.label        "t">
+﻿<!ENTITY  drawInTitlebar.label        "Draw tabs in titlebar when in maximized mode [unlocalized]">
 <!ENTITY  drawInTitlebar.accesskey    "d">
-<!ENTITY  tabsOnTop.label             "Kôrtë na wiérzchù">
-<!ENTITY  tabsOnTop.accesskey         "w">
-

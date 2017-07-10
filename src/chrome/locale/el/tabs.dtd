@@ -1,6 +1,2 @@
-﻿<!ENTITY showTabBar.label             "Πάντα εμφάνιση της εργαλειοθήκης καρτελών">
-<!ENTITY showTabBar.accesskey         "φ">
-<!ENTITY  drawInTitlebar.label        "σχεδιάζω καρτέλες στην γραμμή τίτλου">
+﻿<!ENTITY  drawInTitlebar.label        "σχεδιάζω καρτέλες στην γραμμή τίτλου">
 <!ENTITY  drawInTitlebar.accesskey    "κ">
-<!ENTITY  tabsOnTop.label             "Καρτέλες στο πάνω μέρος">
-<!ENTITY  tabsOnTop.accesskey         "π">

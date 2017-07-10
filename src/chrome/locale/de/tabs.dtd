@@ -1,6 +1,2 @@
-﻿<!ENTITY showTabBar.label             "Tab-Leiste immer anzeigen">
-<!ENTITY showTabBar.accesskey         "b">
-<!ENTITY  drawInTitlebar.label        "Tabs in Titelleiste">
+﻿<!ENTITY  drawInTitlebar.label        "Tabs in Titelleiste">
 <!ENTITY  drawInTitlebar.accesskey    "l">
-<!ENTITY  tabsOnTop.label             "Tabs oben">
-<!ENTITY  tabsOnTop.accesskey         "t">

@@ -1,6 +1,2 @@
-﻿<!ENTITY showTabBar.label             "Uvijek prikazuj traku sa tabovima">
-<!ENTITY showTabBar.accesskey         "b">
-<!ENTITY  drawInTitlebar.label        "Neriješeno tabulatora na Naslovna traka">
+﻿<!ENTITY  drawInTitlebar.label        "Neriješeno tabulatora na Naslovna traka">
 <!ENTITY  drawInTitlebar.accesskey    "N">
-<!ENTITY  tabsOnTop.label             "Tabovi na vrhu">
-<!ENTITY  tabsOnTop.accesskey         "v">

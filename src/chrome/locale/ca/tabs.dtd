@@ -1,6 +1,2 @@
-﻿<!ENTITY showTabBar.label             "Mostra sempre la barra de pestanyes">
-<!ENTITY showTabBar.accesskey         "b">
-<!ENTITY  drawInTitlebar.label        "Dibuixa pestanyes a la barra de títol">
+﻿<!ENTITY  drawInTitlebar.label        "Dibuixa pestanyes a la barra de títol">
 <!ENTITY  drawInTitlebar.accesskey    "d">
-<!ENTITY  tabsOnTop.label             "Les pestanyes a dalt">
-<!ENTITY  tabsOnTop.accesskey         "p">
